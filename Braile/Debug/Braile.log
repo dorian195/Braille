@@ -1,0 +1,4 @@
+﻿  Braile.cpp
+c:\users\dorian\desktop\c++\braile\braile\braile.cpp(15): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\dorian\desktop\c++\braile\braile\braile.cpp(16): error C2065: "cin": niezadeklarowany identyfikator
+c:\users\dorian\desktop\c++\braile\braile\braile.cpp(21): error C2065: "cout": niezadeklarowany identyfikator
